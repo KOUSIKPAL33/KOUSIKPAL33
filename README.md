@@ -1,5 +1,5 @@
 ## - 👋 Hi, I’m Kousik Pal
-## - 🌱 I’m currently learning MCA at NIT Warangal.
+## - 🌱 I’m currently pursuing MCA at NIT Warangal.
 ## - 📫 How to reach me ...kousikpal652@gmail.com
 ## - Connect with me-www.linkedin.com/in/kousik-pal-68319b28b
 ## Portfolio - https://kousikpal33.github.io/portfolio/
